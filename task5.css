@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.outer-box {
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.inner-box {
+    background-color: #5a6c81;
+    padding: 20px;
+    width: 350px;  
+    color: black;
+    word-wrap: break-word;
+}
