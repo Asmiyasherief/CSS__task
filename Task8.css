@@ -1,0 +1,9 @@
+.rainbow-text{
+  font-size:40px;
+  font-weight:bold;
+  text-align:center;
+  display:inline-block;
+  background:linear-gradient(to right,red,orange,yellow,green,blue,indigo,violet);
+  -webkit-background-clip:text;
+  -web-kit-text-fill-color:transparent;
+}
