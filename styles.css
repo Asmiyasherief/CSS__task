@@ -32,7 +32,7 @@
 }
 
 body {
-    background-image: url(banner);
+    background-image: url(banner.webp);
     background-size: cover;
     background-position: center;
     display: flex;
